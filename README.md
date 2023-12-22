@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 Esse projeto foi desenvolvido durante as aulas do Stage 03 no Explorer.
-link: footoblog.netlify.app
+
 
 
 <p align="center">
